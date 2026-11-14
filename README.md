@@ -1,5 +1,7 @@
 # Universal Scraper
 
+> **Free community:** the current version of this, plus my other Claude Code skills, prompts and courses, is in my free Skool community: https://www.skool.com/iss-ai-automation-school-6342/about
+
 This script enables users to scrape data from a webpage and store it in a MongoDB database. The extracted data is structured based on JSON objects specified in the prompt, providing a standardized way to collect detailed product information, metadata, tags, and more. The script can process single URLs or a batch of URLs from a CSV file, and it utilizes both Jina AI and OpenAI APIs for data extraction.
 
 ## Setup
